@@ -1,4 +1,1 @@
-f=x*y
-X=[x,y]
-XR=[[1,2],[x,2*x]]
-MultipleIntegral(f,X,XR)
+
